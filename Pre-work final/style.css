@@ -1,0 +1,52 @@
+<style type="text/css">
+td{
+  font-size: 20px;
+}
+table{
+  color: purple;
+}
+#chess{
+  font-family: 'Zen Tokyo Zoo', cursive;
+ }
+ .heading{
+   text-decoration: underline;
+   font-size: 20px;
+}
+a{
+  text-color: purple;
+  font-size: 20px;
+}
+li{
+font-family: 'Zen Loop', cursive;
+}
+h2{
+  font-family: 'Zen Loop', cursive;
+  text-decoration: underline;
+}
+h3{
+  font-family: 'Zen Loop', cursive;
+}
+p{
+  font-size: 20px;
+  font-family: 'Zen Loop', cursive;
+}
+ form{
+   font-size: 20px;
+   font-family: 'Zen Tokyo Zoo', cursive
+ }
+ input[type=text] {
+   border: 2px solid red;
+   width: 25%;
+   height: 25px;
+ }
+ #div1,#div2,#div3{
+   position: relative;
+   color: black;
+ }
+ body{
+   background-color: #87ceeb;
+ }
+ .Flag{
+  position: static;
+ }
+</style>
